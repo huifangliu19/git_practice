@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GuCheng Blog</title>
+  </head>
+  <body>
+    <h1>Langzhong ancient city</h1>
+    <h2>Location</h2>
+    <p>Langzhong ancient city is located in the northern Sichuan Basin, the middle reaches of the Jialing River, east of Yilong, Pakistan, 
+south of the south, west of the jiange, north of Cangxi, 300 kilometers from the provincial capital of Chengdu</p>
+   <ul>
+     <li><a href="#introduction">Introduction</a></li> 
+     <li><a href="#attractions">Attractions</a></li>
+     <li><a href="#media">Media</a></li>
+   </ul>
+   <div id="introduction">
+     <h2>About Langzhong ancient</h2>
+     <p>Lang in the ancient city, is the <em>national AAAAA-class tourist</em> attractions, 
+the Millennium ancient county, the Chinese culture of the Spring Festival, one of China's four ancient cities.<br /><br /> 
+Langzhong ancient city is located in the northeastern edge of the Sichuan Basin, the middle reaches of the Jialing River,
+Langzhong ancient city "5A" scenic area of 4.59 square kilometers, the core area of the ancient city of 2 square kilometers. 
+As of 2015, the ancient city has more than 2,300 years of history of the city, for the ancient city of Pakistan Shu military.
+Langzhong ancient city has Zhang Fei Temple, Yongan Temple, Wulong Temple, Tengwangge, Guanyin Temple, Baba Temple, the Great Buddha Temple, 
+North Sichuan Road Gongyuan 8 national key cultural relics protection units; Shaojiawan grave, pen tower, stone temple cliff Statues, Raytheon cliff statues, Niu Wang hole cliff statues, 
+the Red Fourth Army General Political Department site, Huaguang and other 22 provincial cultural relics protection units. February 2010 Langzhong City won the "Chinese Spring Festival culture" title;
+in September 2013,Langzhong ancient city tourist area was approved as the national <strong>5A-class tourist attractions</strong>.</p>
+     <img
+src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=20d0b338e3f81a4c323fe49bb6430b3c/9213b07eca8065382034a55f9fdda144ac34829b.jpg" />
+   </div>
+   <div id="attractions">
+     <h2>Attractions</h2>
+     <ol>
+       <li>Han Huan Hou Temple</li>
+       <li>Tang Dynasty pagoda</li>
+     </ol>
+     <h2>Han Huan Hou Temple</h2>
+     <p><strong>Zhang Fei</strong> for the Three Kingdoms Shu Han, "Five Tigers will be" one, <strong>Liu Bei</strong> captured in Sichuan,
+the closure of the fly for the generals of the general manager of the captain, and any Brazilian prince guarding Langzhong.
+In the guard Langzhong 7 years, Zhang Fei security of the people, the development of agricultural mulberry.<br /><br />
+Zhang Yu first year (AD 221), Zhang Fei was under the Zhang, Fan Qiang harm, posthumous as Huan Hou,
+buried in Langzhong. Zhang Fei, after the people who respect their loyalty, for his building mound built temple, 
+to commemorate, from the beginning when the Han Huan Hou Temple has been 1700 years of history.<br /><br />
+According to Langzhou provincial governor Cui Shan "new Brazilian prefect Zhang Huan Hou Temple in mind," 
+Zhang Fei died after the construction of Huan Hou Temple, although the soldiers were destroyed by fire, but tired to build,
+"soil more than a few, the pasture. Ming Dynasty meal Li heavy, surrounded by graves in the building 47 feet.<br /><br />
+Since then there are many renewals. Today's Huan Hou Temple for the Ming and Qing Dynasties to rebuild the four-style courtyard-style
+ancient buildings, covering over 5,000 square meters, large-scale, beautifully built by the gate, enemy million floor, 
+around the arch, east and west rooms, hall, Tombs, tombs, construction area of
+2200 square meters, for the three countries a major cultural heritage.</p>
+    <img
+src="https://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/96dda144ad345982114719540ef431adcaef8423.jpg" />
+    <h2>Tang Dynasty pagoda</h2>
+    <p>National cultural relics protection units. Located in the north of Yutai Mountain half waist, is now Tengwangge scenic area, 
+    Tang Teng Wang Yuan Ying guard Langzhong Built. <br /><br />Pagoda high 8.25 meters, four square tower base, carved four plum-shaped Xu Mizuo,
+    tower for the complex bowl shape, the middle of a boat-shaped niche, engraved a Buddha knot fell in the lotus, 
+    The lower layer of stone carved Hercules lifts brake body, the upper for the hexagonal column, the parties open a Kunmen,
+    door engraved a Buddha, brake for the flame pattern. Delicate stone, simple and beautiful. This tower is seven floating Tu, 
+    the original three, the only one. Its visual effects strange, no matter from any point of view, the stone tower are tilted to the side.</p>
+    <img
+src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=495ad78f9b8fa0ec6bca6c5f47fe328b/d52a2834349b033b703fe9661fce36d3d439bdd2.jpg" />
+   </div>
+   <div id="media">
+   <h2>Media</h2>
+   <p>This is about <strong>Langzhong</strong> ancient city introductions</p>
+   <iframe width="640" height="360" src="https://www.youtube.com/embed/dEzQqp2rIG8" frameborder="0" allowfullscreen></iframe>
+   </div>
+  </body>
+ </html>
+   
